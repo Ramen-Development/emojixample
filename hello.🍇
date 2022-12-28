@@ -1,0 +1,19 @@
+🏁 🍇
+  💭 We initialize finalgrade as 0.0 (the .0 to specify as a floating number)
+  0.0➡️🖍🆕 finalgrade
+  💭 We get the command line arguments
+  🎞🐇💻❗️➡️🖍🆕 grades
+  💭 We delete the first argument from the list (./hello)
+  🐨grades 0❗️
+  💭 for each grade in the list grades...
+  🔂 grade grades 🍇
+    💭 turn the grade into a float and add it to the finalgrade
+    finalgrade⬅️➕🍺💯grade❗️
+  🍉
+  💭 get the length of the list into ngrades
+  📏grades❓ ➡️ ngrades
+  💭 divide the sum of the grades by the length of the list
+  finalgrade⬅️➗💯ngrades❗️
+  💭 print it as a string!
+  😀🔤Final grade: 🧲🔡finalgrade❗️🧲🔤❗️
+🍉
